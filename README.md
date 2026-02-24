@@ -2,7 +2,7 @@
 
 Cybersecurity major with hands-on experience across penetration testing, practical cryptography, and risk analysis.  
 Interested in secure systems engineering, network security, and building security-focused projects with clean documentation.
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=700&color=22C55E&width=900&lines=Cybersecurity+Major;Penetration+Testing+%7C+Risk+Analysis+%7C+Applied+Cryptography;Network+Security+%7C+OWASP+Web+Security;Building+secure+projects+with+clean+documentation" />
  ## 💻 Tech Badges
 
 ![Python](https://img.shields.io/badge/Python-22C55E?style=for-the-badge&logo=python&logoColor=white)
@@ -35,5 +35,3 @@ Interested in secure systems engineering, network security, and building securit
 
  ## 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/montaserabdul-hamid)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=700&color=22C55E&width=900&lines=Cybersecurity+Major;Penetration+Testing+%7C+Risk+Analysis+%7C+Applied+Cryptography;Network+Security+%7C+OWASP+Web+Security;Building+secure+projects+with+clean+documentation" />
