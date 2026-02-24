@@ -1,8 +1,8 @@
-## About Me
+🧑‍💻 ## About Me
 Cybersecurity major with hands-on experience across penetration testing, practical cryptography, and risk analysis.  
 Interested in secure systems engineering, network security, and building security-focused projects with clean documentation.
 
-## Tech Badges
+💻 ## Tech Badges
 ![Python](https://img.shields.io/badge/Python-22C55E?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-FACC15?style=for-the-badge&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-8B5CF6?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -18,18 +18,17 @@ Interested in secure systems engineering, network security, and building securit
 ![Solidity](https://img.shields.io/badge/Solidity-2563EB?style=for-the-badge&logo=solidity&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-8B5CF6?style=for-the-badge&logo=torproject&logoColor=white)
 
-## Focus Areas
+🎯 ## Focus Areas
 - Penetration Testing & Ethical Hacking (authorized labs)
 - Risk Analysis (threat modeling, prioritization, mitigation planning)
 - Applied Cryptography (hashing, symmetric/asymmetric crypto, key exchange, replay protection)
 - Networking & Network Security (Packet Tracer, protocols, segmentation basics)
 - Databases & Data Structures (MySQL fundamentals, secure data handling)
 
-## Tech Stack
-**Languages:** C • Python • Java • JavaScript • PHP • Bash • SQL (MySQL) • Solidity •
+🧰 ## Tech Stack
+**Languages:** C • Python • Java • JavaScript • PHP • Bash • SQL (MySQL) • Solidity
 
 **Tools / Concepts:** Linux • Git/GitHub • Web Security (OWASP) • Network Scanning/Enumeration • Basic CTF experience
 
-## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/montaserabdul-hamid)
-
+🔗 ## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/montaserabdul-hamid)
